@@ -5,4 +5,5 @@ HELP.md
 
 *.sqlite
 
-*.md ! README.md
+*.md
+!README.md
