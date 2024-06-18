@@ -1,0 +1,8 @@
+*.exercism
+
+output.json
+HELP.md
+
+*.sqlite
+
+*.md ! README.md
