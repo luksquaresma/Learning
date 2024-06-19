@@ -9,10 +9,8 @@ in
 
 pkgs.mkShell {
   buildInputs = with pkgs; [
-    glow
     python3
     # python3Packages.tensorflow
     exercism
-    tmux
   ];
 }
